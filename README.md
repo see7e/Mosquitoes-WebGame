@@ -7,8 +7,8 @@ Web Development project with HTML, CSS and JS structure, based in lessons taken 
 
 The project was developed taking into account the multi-activities developed in Udemy's "Complete Web Development 2022 - 20 courses + 20 projects" course, the language is Portuguese and it has two branches.
 
-In [main]() you will find a simplified solution of the app, it can run easyly in any browser.
-In [tests]() you'll find a base [structure](#available-scripts) provided by the [Create React App](https://github.com/facebook/create-react-app), the reason of this is because I was studing the React and JSX, but unfotunately I don't have much free time.
+In [main](github.com/see7e/Mosquitoes-WebGame) you will find a simplified solution of the app, it can run easyly in any browser.
+In [tests](github.com/see7e/Mosquitoes-WebGame/tree/tests) you'll find a base [structure](#available-scripts) provided by the [Create React App](https://github.com/facebook/create-react-app), the reason of this is because I was studing the React and JSX, but unfotunately I don't have much free time.
 
 So you can freely fork this project and make yours impovments! Just don't forget to send me a [message](linkedin.com/in/gabryelnobrega) so we can study together.
 
