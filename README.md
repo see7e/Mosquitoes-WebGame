@@ -1,5 +1,4 @@
 # Mosquitoes
------------------
 
 Web Development project with HTML, CSS and JS structure, based in lessons taken in Udemy webcourse, [here](udemy.com/course/web-completo/)!
 -----------------
